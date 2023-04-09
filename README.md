@@ -69,7 +69,7 @@ Ruby on Rails
 	- [All OSs](https://www.ruby-lang.org/en/documentation/installation/)
  - [ ] إطار ريلز، الاصدار السابع أو أعلى
 	- Rails ~> 7.0 or higher (latest 7.0.4.3)
-	- [تعليمات تثبت الاطار](http://installrails.com/http://installrails.com/)
+	- [تعليمات تثبت الاطار](http://installrails.com/)
  - [ ] محرر أكواد
 	- [vs code](https://code.visualstudio.com/) 
 	- وتقدر تستخدم اي محرر يعجبك
