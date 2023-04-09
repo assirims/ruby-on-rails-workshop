@@ -15,6 +15,7 @@
  * تطبيق عملي
 
 وخلال التطبيق العملي، راح نتدرب على
+
 Ruby on Rails
 
 # Ruby on Rails
@@ -22,6 +23,7 @@ Ruby on Rails
 <img src="https://img.shields.io/badge/Ruby-%23E34F26.svg?style=for-the-badge&logo=Ruby&logoColor=whitef" />
 
 (الترجمة الحرفية، الياقوت على السياج :> )
+
 --  غير شائع الترجمة الحرفية وغير احترافي استخدامها--
 
 لذا لغة البرمجة اسمها روبي
@@ -36,8 +38,10 @@ Ruby on Rails
 ## متطلبات سابقة علمية
 
 المتطلبات التالية يفضل تكون تعرفها أو على الاقل تقرأ عنها قبل الورشة لانه غالبا ما راح يتم الحديث عنها لانها مبادئ أساسية 
+
 يعني هي بسيطة جدا لدرجة ما راح نغطيها في المحاضرة
 لكنها أساسية جدا لدرجة بدونها ما راح تفهم التطبيق العملي
+
  - [ ] [معرفة بأساسيات لغة الترميز - HTML](https://www.w3schools.com/html/)
  - [ ] [ معرفة بأساسيات لغة تنسيق الصفحات - CSS](https://www.w3schools.com/css/)
  - [ ] [ معرفة بأساسيات نظام التحكم بالاصدارات  - git](https://git-scm.com/doc)
@@ -61,14 +65,13 @@ Ruby on Rails
  - [ ] لغة روبي الاصدار الثالث أو أعلى
 	- Ruby ~> 3.0 or higher (latest 3.2.2)
 	- تعليمات تثبيت اللغة
-	- For Windows OS, https://rubyinstaller.org/
-	- All OSs, https://www.ruby-lang.org/en/documentation/installation/
+	- [For Windows OS](https://rubyinstaller.org/)
+	- [All OSs](https://www.ruby-lang.org/en/documentation/installation/)
  - [ ] إطار ريلز، الاصدار السابع أو أعلى
 	- Rails ~> 7.0 or higher (latest 7.0.4.3)
-	- تعليمات تثبت الاطار
-	- http://installrails.com/http://installrails.com/
+	- [تعليمات تثبت الاطار](http://installrails.com/http://installrails.com/)
  - [ ] محرر أكواد
-	[- راح استخدم vs code](https://code.visualstudio.com/) 
+	- [vs code](https://code.visualstudio.com/) 
 	- وتقدر تستخدم اي محرر يعجبك
  - [ ]  حساب فعال على منصة github.com
 	- غير أساسي للورشة، لكنه ممارسة احترافية 
